@@ -1,4 +1,4 @@
 nombre = "Jhon Edward"
 apellido = "juan"
-dia = "25"
+dia = "500"
 carro = "moto"
